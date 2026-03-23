@@ -1,4 +1,4 @@
-# sisy.today — Newsletter & Opportunity Digest
+# sisy.today - Newsletter & Opportunity Digest
 
 **Domain:** sisy.today
 **Status:** Backlog
@@ -6,7 +6,7 @@
 **Notion:** https://www.notion.so/32b81018ea0381689781ec46ad8d76e5
 
 ## Purpose
-Newsletter and daily/weekly digest of opportunities for women experts — curated CFPs, speaker spots, podcast guest invites, advisory roles, media opportunities.
+Newsletter and daily/weekly digest of opportunities for women experts - curated CFPs, speaker spots, podcast guest invites, advisory roles, media opportunities.
 
 ## Key Sections
 - Hero: What is sisy.today?

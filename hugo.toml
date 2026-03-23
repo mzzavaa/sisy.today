@@ -1,6 +1,6 @@
 baseURL = "https://sisy.today/"
 languageCode = "en-us"
-title = "SISY Today — The Weekly Digest for Women Experts"
+title = "SISY Today - The Weekly Digest for Women Experts"
 
 [params]
   description = "A weekly digest of speaking opportunities, CFPs, and visibility tips curated for women experts. Free and premium editions."
